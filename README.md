@@ -2,68 +2,78 @@
 
 # Shubham Dattatraya Bhat
 
-Computer Science and Engineering (Artificial Intelligence & Machine Learning)
-PES University — Bengaluru, Karnataka
+**Computer Science & Engineering (Artificial Intelligence and Machine Learning)**
+PES University — Bengaluru
+
+Exploring machine learning, data systems, and the occasional frontend rabbit hole.
 
 </div>
 
 ---
 
-## Profile
+## Overview
 
-Undergraduate student specializing in **Artificial Intelligence and Machine Learning** with experience in machine learning modeling, geospatial data analysis, and full-stack web application development.
-Focused on developing practical systems that combine data analysis, predictive modeling, and scalable software design.
+Undergraduate student working primarily in **machine learning, data analysis, and software development**.
+Interested in building systems that turn data into meaningful insights and usable applications.
+
+Occasionally spends too much time debugging models that were *definitely supposed to work the first time.*
 
 ---
 
 ## Selected Projects
 
-### Movie Box Office Revenue Prediction
+### 🎬 Movie Box Office Revenue Prediction
 
-Developed a predictive model to estimate movie box office revenue using machine learning techniques.
+Machine learning model developed to estimate film revenue from metadata.
 
-* Implemented ensemble models including **XGBoost and Random Forest**
-* Engineered high-impact features from **TMDB metadata**
-* Optimized performance using **log-scale regression and cross-validation**
-* Evaluated model robustness through iterative experimentation
+**Highlights**
+
+* Built ensemble models using **XGBoost and Random Forest**
+* Engineered predictive features from **TMDB dataset metadata**
+* Used **cross-validation and log-scale regression** to improve model stability
+* Conducted iterative experimentation to refine model performance
 
 ---
 
-### Geospatial Analysis of Aadhaar Service Demand & Infrastructure Stress
+### 🗺 Geospatial Analysis of Aadhaar Service Demand & Infrastructure Stress
 
-Conducted geospatial analysis of Aadhaar enrollment and update demand across districts.
+Data-driven geospatial analysis of Aadhaar enrollment demand and service infrastructure.
+
+**Highlights**
 
 * Processed demographic and biometric datasets using **Python, Pandas, and GeoPandas**
-* Designed district-level demand metrics to identify **service pressure zones**
-* Implemented **fuzzy matching (RapidFuzz)** to normalize administrative inconsistencies
-* Visualized spatial demand patterns using **GeoJSON-based choropleth maps**
+* Created district-level **service pressure metrics**
+* Implemented **fuzzy matching (RapidFuzz)** to resolve administrative inconsistencies
+* Visualized spatial demand patterns using **GeoJSON-based maps**
 
 ---
 
-### Responsive Web Application Development using React.js and Tailwind CSS
+### 💻 Responsive Web Application Development
 
-Designed and implemented a responsive web application with modern frontend frameworks.
+Frontend web application built with modern JavaScript frameworks.
 
-* Built modular UI components using **React.js**
-* Implemented responsive layouts using **Tailwind CSS**
-* Ensured cross-device compatibility across mobile, tablet, and desktop
-* Utilized browser developer tools to optimize layout consistency and performance
+**Highlights**
+
+* Developed modular UI using **React.js**
+* Implemented responsive layouts with **Tailwind CSS**
+* Ensured device compatibility across **mobile, tablet, and desktop**
+* Optimized layout and performance using browser developer tools
 
 ---
 
 ## Technical Skills
 
-**Programming**
+**Languages**
 
 Python • C • C++ • JavaScript
 
-**Machine Learning & Data Analysis**
+**Machine Learning / Data**
 
-Pandas • GeoPandas • Scikit-learn • Kaggle
+Pandas • GeoPandas • Scikit-Learn • Kaggle
 
 **Web Development**
 
-React.js • Tailwind CSS • HTML5 • CSS3 • JavaScript (ES6+)
+React.js • Tailwind CSS • HTML • CSS • JavaScript
 
 **Tools**
 
@@ -75,18 +85,33 @@ Git • MongoDB • Linux
 
 **AI/ML Special Interest Group — PES University**
 
-Active member contributing to technical discussions on artificial intelligence and machine learning research.
+Participating in technical discussions and research exploration related to artificial intelligence and machine learning.
 
 **Technical Team Member — Aura Club**
 
-Participated in development of technical projects, workshops, and coding events.
+Contributing to development of technical projects, workshops, and coding initiatives.
+
+---
+
+## Current Interests
+
+* Machine learning experimentation
+* Data analysis pipelines
+* Building useful ML applications
+* Systems that scale beyond "it works on my laptop"
 
 ---
 
 ## Contact
 
-LinkedIn
-https://linkedin.com/in/YOUR_LINK
+**LinkedIn**
+https://www.linkedin.com/in/shubham-bhat-aab037344/
 
-Email
-[shubhambahat003@gmail.com](mailto:shubhambahat003@gmail.com)
+**Email**
+[shubhambahat003@gmail.com](mailto:shubhambhat003@gmail.com)
+
+---
+
+<p align="center">
+<i>Always experimenting, occasionally succeeding, constantly learning.</i>
+</p>
