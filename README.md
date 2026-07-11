@@ -165,6 +165,6 @@ A coverage heatmap can show green while the detection behind it silently stops w
 
 <div align="center">
 
-**Thanks for stopping by — let's build something that holds up when someone checks it.**
+**Thanks for stopping by — let's continue building !.**
 
 </div>
