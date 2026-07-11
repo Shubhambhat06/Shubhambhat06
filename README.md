@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Shubham%20Bhat&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20%C2%B7%20Security%20Researcher%20%C2%B7%20PES%20University&descAlignY=55&descSize=18&color=0:FF6B6B,50:C44FFF,100:4D96FF" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Shubham%20Bhat&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Enthusiast%20%C2%B7%20Security%20Researcher%20%C2%B7%20PES%20University&descAlignY=55&descSize=18&color=0:FF6B6B,50:C44FFF,100:4D96FF" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C44FFF&center=true&vCenter=true&width=650&lines=Building+NL-SIEM+%40+PESU+C-ISFCR;91.4%25+Syntactic+Validity+%7C+241-Record+Benchmark;9.39+CGPA+%7C+300%2B+LeetCode+Solved;Turning+%22looks+correct%22+into+%22is+correct%22" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C44FFF&center=true&vCenter=true&width=650&lines=Building+NL-SIEM+%40+PESU+C-ISFCR;91.4%25+Syntactic+Validity+%7C+241-Record+Benchmark;Turning+%22looks+correct%22+into+%22is+correct%22" />
 
 <br>
 
