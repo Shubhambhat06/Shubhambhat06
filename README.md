@@ -114,7 +114,6 @@ Cross-validated XGBoost + Random Forest ensemble on heavily right-skewed TMDB fi
 
 - 🔭 Building out multi-technique ATT&CK classification and the Splunk/QRadar/Sentinel connectors for **NL-SIEM**
 - 🛡️ SOC Intern at **PESU C-ISFCR** — detection engineering, incident triage, cross-platform SIEM coverage
-- 🎤 Running competitive programming workshops for **Aura Club** (DP, graphs, segment trees — 50+ participants)
 - 📚 Presenting deep-dives on transformer architecture and LLM alignment for **AIML SIG**
 - 🧩 300+ LeetCode problems deep, still counting
 
